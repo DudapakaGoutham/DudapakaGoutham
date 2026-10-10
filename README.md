@@ -1,6 +1,6 @@
 # Hi 👋, I'm Goutham Dudapaka
 
-### Aspiring Data Analyst | CSE (AI & ML) Graduate
+### CSE (AI & ML) Graduate
 
 I'm interested in transforming raw data into meaningful insights using Python, SQL, and data visualization.
 
